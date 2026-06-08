@@ -1,23 +1,23 @@
-# 🧪 LabRent — Sistem Peminjaman Alat Laboratorium
+# LabRent — Sistem Peminjaman Alat atau Bahan Laboratorium Kimia
 
-LabRent adalah aplikasi web berbasis PHP untuk mengelola peminjaman alat dan bahan laboratorium. Dibangun untuk memudahkan mahasiswa dalam meminjam alat, serta membantu admin laboratorium dalam mengelola inventaris dan laporan peminjaman.
+LabRent adalah aplikasi web berbasis PHP untuk mengelola peminjaman alat dan bahan laboratorium kimia Universitas Negeri Manado. Dibangun untuk memudahkan mahasiswa dalam meminjam alat dan mengupload modul, serta membantu admin laboratorium dalam mengelola inventaris dan modul serta dalam memantau laporan peminjaman.
 
 ---
 
-## 📌 Fitur Utama
+## Fitur Utama
 
 ### 👨‍💼 Admin
-- Dashboard ringkasan data lab
+- Dashboard 
 - Kelola inventaris alat & bahan
 - Persetujuan & pengelolaan peminjaman
-- Upload & kelola modul praktikum
+- Kelola modul praktikum mahasiswa
 - Cetak laporan peminjaman
 
 ### 👨‍🎓 Mahasiswa
 - Daftar & login akun
 - Lihat daftar alat yang tersedia
 - Ajukan peminjaman alat
-- Download modul praktikum
+- Memasukkan modul praktikum
 - Kelola profil
 
 ---
@@ -26,19 +26,18 @@ LabRent adalah aplikasi web berbasis PHP untuk mengelola peminjaman alat dan bah
 
 | Teknologi | Keterangan |
 |-----------|------------|
-| PHP 8.x | Backend / server-side |
-| MySQL / MariaDB | Database |
-| PDO | Koneksi database |
+| PHP | Backend |
+| MySQL  | Database |
 | HTML, CSS, JavaScript | Frontend |
 | Bootstrap | UI Framework |
 
 ---
 
-## 📁 Struktur Folder
+## Struktur Folder
 
 ```
 labrent/
-├── index.php               # Halaman utama / landing page
+├── index.php               # Halaman utama
 ├── login.php               # Halaman login
 ├── logout.php              # Proses logout
 ├── register.php            # Halaman registrasi mahasiswa
@@ -85,7 +84,7 @@ labrent/
 ## ⚙️ Cara Instalasi
 
 ### Prasyarat
-- XAMPP / Laragon / WAMP (PHP 8.x + MySQL/MariaDB)
+- XAMPP / Laragon / WAMP (PHP + MySQL/MariaDB)
 - Web browser
 
 ### Langkah Instalasi
@@ -139,13 +138,13 @@ http://localhost/labrent/
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 > *(Tambahkan screenshot aplikasi di sini)*
 
 ---
 
-## 👨‍💻 Pengembang
+## Pengembang
 
 Dikembangkan sebagai proyek web untuk sistem manajemen laboratorium.
 
