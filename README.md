@@ -1,6 +1,6 @@
-# LabRent — Sistem Peminjaman Alat atau Bahan Laboratorium Kimia
+# Labrent — Sistem Peminjaman Alat atau Bahan Laboratorium Kimia
 
-LabRent adalah aplikasi web berbasis PHP untuk mengelola peminjaman alat dan bahan laboratorium kimia Universitas Negeri Manado. Dibangun untuk memudahkan mahasiswa dalam meminjam alat dan mengupload modul, serta membantu admin laboratorium dalam mengelola inventaris dan modul serta dalam memantau laporan peminjaman.
+Labrent adalah aplikasi web berbasis PHP untuk mengelola peminjaman alat dan bahan laboratorium kimia Universitas Negeri Manado. Dibangun untuk memudahkan mahasiswa dalam meminjam alat dan mengupload modul, serta membantu admin laboratorium dalam mengelola inventaris dan modul serta dalam memantau laporan peminjaman.
 
 ---
 
@@ -22,7 +22,7 @@ LabRent adalah aplikasi web berbasis PHP untuk mengelola peminjaman alat dan bah
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Teknologi | Keterangan |
 |-----------|------------|
